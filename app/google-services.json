@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743027107487",
+    "firebase_url": "https://loginandfacebookdemo.firebaseio.com",
+    "project_id": "loginandfacebookdemo",
+    "storage_bucket": "loginandfacebookdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743027107487:android:7053ecd40daf5ace2064aa",
+        "android_client_info": {
+          "package_name": "com.dev.cristian.alvarez.loginwithgoogleandfacebookdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743027107487-vddh5qhho69ps5j8br9lcrthij4ov4rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.cristian.alvarez.loginwithgoogleandfacebookdemo",
+            "certificate_hash": "f0305d76f68834c4b1f84dde91c407b77f411463"
+          }
+        },
+        {
+          "client_id": "743027107487-f8vq31tiok60opbq3ab1hi083s8uiajp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVDDFPhKA1PEMgGu4tQWWcBbWFccAl5wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743027107487-f8vq31tiok60opbq3ab1hi083s8uiajp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
