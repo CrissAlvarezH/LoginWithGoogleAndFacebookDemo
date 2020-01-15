@@ -57,6 +57,12 @@ class LoginActivity : AppCompatActivity() {
                     Log.v("login_activity", "User: Id: ${ user?.uid } name: ${user?.displayName}, email: ${user?.email}")
 
                     Toast.makeText(this, "Login completado", Toast.LENGTH_SHORT).show()
+
+                    startActivity(
+                        Intent(this@LoginActivity, UserDataActivity::class.java)
+                    )
+
+                    finish()
                 } else {
                     task.exception?.printStackTrace()
                     Log.e("login_activity", "Error en login ${ task.exception?.message }")
