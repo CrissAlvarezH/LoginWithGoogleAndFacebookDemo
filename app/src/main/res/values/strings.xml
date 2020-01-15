@@ -1,5 +1,5 @@
 <resources>
     <string name="facebook_app_id">2552866298323150</string> <string name="fb_login_protocol_scheme">fb2552866298323150</string>
-
+    <string name="request_id_token_signin_google">743027107487-f8vq31tiok60opbq3ab1hi083s8uiajp.apps.googleusercontent.com</string>
     <string name="app_name">SingInWithGoogleAndFacebookDemo</string>
 </resources>
